@@ -1,0 +1,2 @@
+# snakebot
+discord.js snakebot
