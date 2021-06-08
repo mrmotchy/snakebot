@@ -26,6 +26,10 @@
 ## Working perfectly
 
 ![](https://github.com/mrmotchy/stuff/blob/main/Bild_2021-06-08_212201.png?raw=true)
+
+## Secure your TOKEN with .env
+
+![](https://www.passwordmanagerreviews.net/wp-content/uploads/2019/10/secure.jpg)
   
   
 
