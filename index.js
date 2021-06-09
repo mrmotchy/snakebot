@@ -36,7 +36,7 @@ client.on('ready', () => {
 
    console.log('Ready!');
 
-   client.user.setActivity(`${config.prefix}snake`);
+   client.user.setActivity(`${config.prefix}snake | cpt.motchy`);
 
 });
 
